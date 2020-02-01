@@ -9,74 +9,74 @@
   },
 "He":
   {
-  "number": 1,
-  "name": "Водород",
-  "density": 0.000084,
-  "year": 1766,
+  "number": 2,
+  "name": "Ге́лий",
+  "density": 0.147,
+  "year": 1868,
   "discoverer": "Локьер, Жансен, Рамзай"
   },
 "Li":
   {
-  "number": 1,
-  "name": "Водород",
-  "density": 0.000084,
-  "year": 1766,
+  "number": 3,
+  "name": "Литий",
+  "density": 0.534,
+  "year": 1817,
   "discoverer": "Арфведсон"
   },
   "Be":
   {
-  "number": 1,
-  "name": "Водород",
-  "density": 0.000084,
-  "year": 1766,
+  "number": 4,
+  "name": "Берилий",
+  "density": 1.848,
+  "year": 1798,
   "discoverer": "Воклен"
   },
   "B":
   {
-  "number": 1,
-  "name": "Водород",
-  "density": 0.000084,
-  "year": 1766,
+  "number": 5,
+  "name": "Бор",
+  "density": 5.34,
+  "year": 1808,
   "discoverer": "Дэви и Гей-Люссак"
   },
   "C":
   {
-  "number": 1,
-  "name": "Водород",
-  "density": 0.000084,
-  "year": 1766,
-  "discoverer": "неизвестен"
+  "number": 6,
+  "name": "Углерод",
+  "density": 2.25,
+  "year": 1787,
+  "discoverer": "Антуан Лавуазье"
   },
   "N":
   {
-  "number": 1,
-  "name": "Водород",
-  "density": 0.000084,
-  "year": 1766,
-  "discoverer": "Резерфорд"
+  "number": 7,
+  "name": "Азот",
+  "density": 0.808,
+  "year": 1772,
+  "discoverer": "Генри Кавендиш"
   },
   "O":
   {
-  "number": 1,
-  "name": "Водород",
-  "density": 0.000084,
-  "year": 1766,
+  "number": 8,
+  "name": "Кислород",
+  "density": 1.42897,
+  "year": 1774,
   "discoverer": "Пристли и Шееле"
   },
   "F":
   {
-  "number": 1,
-  "name": "Водород",
-  "density": 0.000084,
-  "year": 1766,
+  "number": 9,
+  "name": "Фтор",
+  "density": 1.696,
+  "year": 1886,
   "discoverer": "Муассан"
   },
   "Ne":
   {
-    "number": 1,
-    "name": "Водород",
-    "density": 0.000084,
-    "year": 1766,
+    "number": 10,
+    "name": "Неон",
+    "density": 1.444,
+    "year": 1898,
     "discoverer": "Рамзай и Траверс"
   }
   }
