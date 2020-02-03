@@ -16,7 +16,7 @@ puts "У нас всего элементов: #{@chemical_table.keys.size}"
 puts "#{@chemical_table.keys.join(', ')}"
 # Спрашиваем у пользователя, какой элемент его интересует и записываем его
 puts "О каком элементе хотите узнать?"
-p user_choice = gets.chomp.capitalize
+user_choice = gets.chomp.capitalize
 # Проверка — есть ли в хэше элемент, который спросил пользователь
 if @chemical_table.key?(user_choice)
   puts result_print(user_choice)
